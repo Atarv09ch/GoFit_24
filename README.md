@@ -1,7 +1,7 @@
-<img src="./assets/showcase.png" width="100%">
+
 
   <h1 align="center"> GoFit </h1>
-<p align="center"><i>Cuz' staying fit is not a game : )</i></p>.
+<p align="center"><i> Cuz staying fit is a game in 24 : )</i></p>.
 
 <p align="left">Currently, Every person's new year resolution will be to be healthy, exercise or work out this year will be fun. Staying physically healthy is the most important thing right now and our app will be your partner .
 </p>
